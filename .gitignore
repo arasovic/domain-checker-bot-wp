@@ -35,7 +35,7 @@ jspm_packages/
 *.sublime-project
 *.sublime-workspace
 
-# WordPress files
+# wp files
 wp-content/uploads/
 wp-content/upgrade/
 wp-content/backup-db/
